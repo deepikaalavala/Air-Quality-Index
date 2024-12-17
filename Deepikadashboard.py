@@ -98,5 +98,5 @@ def main():
         signup_page()
 
 # Run the Streamlit App
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
